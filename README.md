@@ -4,4 +4,5 @@
 You need to merge equal cells with keyboard arrows till you won't get 2048.
 
 Game is realized with **HTML, SCSS and pure JS**.
+
 **Try it!**
